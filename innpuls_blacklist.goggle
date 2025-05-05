@@ -1,6 +1,6 @@
 ! name: innpuls blacklist
 ! description: Exclude certain pages
-! public: true
+! public: false
 ! author: Vincent Ehrmann
 
 $discard,site=google.com
