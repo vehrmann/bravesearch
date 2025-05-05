@@ -1,7 +1,7 @@
 ! name: innpuls blacklist
 ! description: Exclude certain pages
 ! public: false
-! author: Vincent Ehrmann
+! author: Vincent Ehrmann (https://search.brave.com/goggles/create)
 
 $discard,site=akamai.net
 $discard,site=akamaiedge.net
