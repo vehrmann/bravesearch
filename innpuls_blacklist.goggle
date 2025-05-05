@@ -65,6 +65,7 @@ $discard,site=quora.com
 $discard,site=quora.de
 $discard,site=reddit.com
 $discard,site=researchgate.net
+$discard,site=roboternetz.de
 $discard,site=rs-online.com
 $discard,site=sciencedirect.com
 $discard,site=sol-expert-group.de
