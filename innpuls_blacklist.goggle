@@ -1,0 +1,23 @@
+! name: innpuls blacklist
+! description: Exclude certain pages
+! public: true
+! author: Vincent Ehrmann
+
+$discard,site=google.com
+$discard,site=youtube.com
+$discard,site=facebook.com
+$discard,site=akamaiedge.net
+$discard,site=netflix.com
+$discard,site=microsoft.com
+$discard,site=instagram.com
+$discard,site=twitter.com
+$discard,site=gtld-servers.net
+$discard,site=baidu.com
+$discard,site=linkedin.com
+$discard,site=akamai.net
+$discard,site=wikipedia.org
+$discard,site=apple.com
+$discard,site=amazonaws.com
+$discard,site=yahoo.com
+$discard,site=sol-expert-group.de
+$discard,site=industrie.de
